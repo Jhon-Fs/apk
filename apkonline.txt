@@ -1,2 +1,2 @@
 LigarApk=sim
-version=0.0.3
+version=V1.0
