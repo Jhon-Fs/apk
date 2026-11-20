@@ -1,2 +1,2 @@
-LigarApk=sim
+LigarApk=n
 version=V1.0
